@@ -1,0 +1,14 @@
+# Databricks App configuration.
+# The SQL warehouse is attached to the app as a resource with the key "sql-warehouse";
+# Databricks then injects its ID into DATABRICKS_WAREHOUSE_ID, which switches the app
+# to live Databricks mode (see data_source.py).
+command: ['streamlit', 'run', 'app.py']
+
+env:
+  - name: DATABRICKS_WAREHOUSE_ID
+    valueFrom: sql-warehouse
+  # Catalog.schema that holds the three Gold tables from Evaluated Exercise 3.
+  - name: GOLD_SCHEMA
+    value: workspace.evaluated_exercise3
+  - name: STREAMLIT_BROWSER_GATHER_USAGE_STATS
+    value: "false"

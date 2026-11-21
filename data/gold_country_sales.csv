@@ -1,0 +1,39 @@
+country,gross_sales,net_revenue,orders,customers,revenue_share_pct,revenue_rank,cumulative_share_pct,market
+United Kingdom,8726604.48,8283551.17,17901,3942,84.71,1,84.71,Domestic (UK)
+Netherlands,283889.34,283479.54,93,9,2.90,2,87.61,International
+EIRE,276090.86,264555.02,284,3,2.71,3,90.31,International
+Germany,205381.15,200619.66,443,95,2.05,4,92.36,International
+France,184679.00,182262.60,383,87,1.86,5,94.23,International
+Australia,138103.81,136922.50,56,9,1.40,6,95.63,International
+Switzerland,53065.60,52483.05,50,21,0.54,7,96.16,International
+Spain,55706.56,51746.65,88,30,0.53,8,96.69,International
+Belgium,36927.34,36662.96,98,25,0.37,9,97.07,International
+Japan,37416.37,35419.79,19,8,0.36,10,97.43,International
+Sweden,36828.83,35166.41,34,8,0.36,11,97.79,International
+Norway,32454.64,32292.96,32,10,0.33,12,98.12,International
+Portugal,26951.11,26807.47,50,19,0.27,13,98.39,International
+Channel Islands,20147.54,20076.39,25,9,0.21,14,98.60,International
+Finland,18344.88,18303.54,40,12,0.19,15,98.79,International
+Denmark,18211.34,18042.14,18,9,0.18,16,98.97,International
+Italy,15820.24,15276.34,35,14,0.16,17,99.13,International
+Cyprus,13167.16,12843.76,14,8,0.13,18,99.26,International
+Hong Kong,9744.19,9733.24,7,0,0.10,19,99.36,International
+Singapore,9120.39,9120.39,4,1,0.09,20,99.45,International
+Austria,8742.68,8698.32,17,11,0.09,21,99.54,International
+Israel,8129.41,7901.97,8,4,0.08,22,99.62,International
+Poland,6974.65,6853.14,19,6,0.07,23,99.69,International
+Unspecified,4740.94,4740.94,13,4,0.05,24,99.74,International
+Greece,4425.52,4425.52,5,4,0.05,25,99.79,International
+Iceland,4310.00,4310.00,7,1,0.04,26,99.83,International
+Canada,3115.44,3115.44,5,4,0.03,27,99.86,International
+Malta,2070.59,1980.47,5,2,0.02,28,99.88,International
+United Arab Emirates,1864.78,1864.78,2,2,0.02,29,99.90,International
+USA,3580.39,1730.92,5,4,0.02,30,99.92,International
+Lebanon,1693.88,1693.88,1,1,0.02,31,99.94,International
+Lithuania,1661.06,1661.06,4,1,0.02,32,99.95,International
+European Community,1159.25,1150.75,3,1,0.01,33,99.96,International
+Brazil,1143.60,1143.60,1,1,0.01,34,99.98,International
+RSA,1002.31,1002.31,1,1,0.01,35,99.99,International
+Czech Republic,786.74,671.72,2,1,0.01,36,99.99,International
+Bahrain,754.14,548.40,3,2,0.01,37,100.00,International
+Saudi Arabia,145.92,131.17,1,1,0.00,38,100.00,International
